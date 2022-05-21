@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Calculator1\MyForm.h(606,42): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\User\source\repos\Calculator1\MyForm.h(613,42): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\User\source\repos\Calculator1\MyForm.h(620,42): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\User\source\repos\Calculator1\MyForm.h(809,30): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\User\source\repos\Calculator1\MyForm.h(810,30): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\User\source\repos\Calculator1\MyForm.h(811,30): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator1.vcxproj -> C:\Users\User\source\repos\Calculator1\Debug\Calculator1.exe
